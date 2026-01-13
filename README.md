@@ -135,47 +135,10 @@ const akhilesh = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Contribution Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
   </picture>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Dev Quote -->
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Profile Views & Footer -->
-<div align="center">
-
-### 👁️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=akhilesh112606&style=for-the-badge&color=00F7F7&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<!-- Animated Footer Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer" />
-
-<br>
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=120&section=footer&animation=twinkling"/>
-
 </div>
